@@ -13,7 +13,7 @@ char WIFI_SSID[] = "###";       // Tukarkan dengan WiFi SSID
 char WIFI_PASSWORD[] = "###";   // Tukarkan dengan WiFi Password
 char FAVORIOT_TOKEN[] = "###";  // Tukarkan dengan Favoriot Device Access Token
 char FAVORIOT_DEVICE[] = "###"; // Tukarkan dengan Favoriot Device Developer Id
-char THINGSPEAK_API[] = "##";   // Tukarkan dengan Thingspeak Write API Key
+char THINGSPEAK_API[] = "###";   // Tukarkan dengan Thingspeak Write API Key
 
 SimpleDHT11 dht11(D6);
 
